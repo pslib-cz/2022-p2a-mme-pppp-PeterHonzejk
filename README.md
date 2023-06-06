@@ -63,5 +63,4 @@ Následující postup popisuje využití razítek:
 1. Připravte materiál, do kterého chcete vykrajovat nebo vytlačovat motivy.
 2. Vyberte vhodné razítko podle vašich potřeb.
 3. Pečlivě přiložte razítko na povrch materiálu.
-4. Pro 2D razítka použijte vhodnou sílu a techniku, abyste vytvořili jasný obrazec.
-5. Pro 3D razítka pečlivě vytlačujte razítko na materiál a ujistěte se, že se vytvořil požadovaný motiv
+4. Pro 2D razítka použijte vhodnou sílu a techniku, abyste vytvořili jasný obrazec. / Pro 3D razítka pečlivě vytlačujte razítko na materiál a ujistěte se, že se vytvořil požadovaný motiv
