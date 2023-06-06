@@ -10,7 +10,6 @@ Zde naleznete fotografie výsledných fyzických výstupů:
 ### Stehenní kost razítko:
 ![fotka razítka stehenní kosti](url-to-bone-cutter-image)
 
-## Obrazová dokumentace pro replikování
 Následující obrázky a diagramy poskytují podrobnou obrazovou dokumentaci pro replikaci razítek:
 
 ### Trilobit razítko:
