@@ -18,7 +18,7 @@ Následující obrázky a diagramy poskytují podrobnou obrazovou dokumentaci pr
 
 ### Stehenní kost razítko:
 ![screenshot modelu stehenní kosti](https://github.com/pslib-cz/2022-p2a-mme-pppp-PeterHonzejk/blob/main/dokumentace/foto/kost_model.jpg)
-![screenshot tisku stehenní kosti](url-to-trilobit-model-image-prusaslicer)](https://github.com/pslib-cz/2022-p2a-mme-pppp-PeterHonzejk/blob/main/dokumentace/foto/kost_tisk.jpg)
+![screenshot tisku stehenní kosti](https://github.com/pslib-cz/2022-p2a-mme-pppp-PeterHonzejk/blob/main/dokumentace/foto/kost_tisk.jpg)
 
 ## Cenová kalkulace
 Následuje přehled nákladů spojených s výrobou razítek:
