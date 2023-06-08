@@ -5,20 +5,20 @@ Tento projekt se zabývá vytvářením 2D a 3D razítek, která slouží k vykr
 Zde naleznete fotografie výsledných fyzických výstupů:
 
 ### Trilobit razítko:
-![fotka trilobit razítka](url-to-trilobit-cutter-image)
+![fotka trilobita](URL)
 
 ### Stehenní kost razítko:
-![fotka razítka stehenní kosti](url-to-bone-cutter-image)
+![fotka razítka stehenní kosti](URL)
 
 Následující obrázky a diagramy poskytují podrobnou obrazovou dokumentaci pro replikaci razítek:
 
 ### Trilobit razítko:
-![screenshot modelu stehenní kosti](url-to-trilobit-model-image-solidworks)
-![screenshot tisku stehenní kosti](url-to-trilobit-model-image-prusaslicer)
+![screenshot modelu trilobita](https://github.com/pslib-cz/2022-p2a-mme-pppp-PeterHonzejk/blob/main/dokumentace/foto/trilobit_model.jpg)
+![screenshot tisku trilobita](https://github.com/pslib-cz/2022-p2a-mme-pppp-PeterHonzejk/blob/main/dokumentace/foto/trilobit_tisk.jpg)
 
 ### Stehenní kost razítko:
-![screenshot modelu stehenní kosti](url-to-bone-cutter-image-soldiworks)
-![screenshot tisku stehenní kosti](url-to-trilobit-model-image-prusaslicer)
+![screenshot modelu stehenní kosti](https://github.com/pslib-cz/2022-p2a-mme-pppp-PeterHonzejk/blob/main/dokumentace/foto/kost_model.jpg)
+![screenshot tisku stehenní kosti](url-to-trilobit-model-image-prusaslicer)](https://github.com/pslib-cz/2022-p2a-mme-pppp-PeterHonzejk/blob/main/dokumentace/foto/kost_tisk.jpg)
 
 ## Cenová kalkulace
 Následuje přehled nákladů spojených s výrobou razítek:
