@@ -7,7 +7,7 @@ Zde naleznete fotografie výsledných fyzických výstupů:
 ### Trilobit razítko:
 ![fotka trilobita](URL)
 
-### Stehenní kost razítko:
+### Razítko stehenní kosti:
 ![fotka razítka stehenní kosti](URL)
 
 Následující obrázky a diagramy poskytují podrobnou obrazovou dokumentaci pro replikaci razítek:
@@ -16,7 +16,7 @@ Následující obrázky a diagramy poskytují podrobnou obrazovou dokumentaci pr
 ![screenshot modelu trilobita](https://github.com/pslib-cz/2022-p2a-mme-pppp-PeterHonzejk/blob/main/dokumentace/foto/trilobit_model.jpg)
 ![screenshot tisku trilobita](https://github.com/pslib-cz/2022-p2a-mme-pppp-PeterHonzejk/blob/main/dokumentace/foto/trilobit_tisk.jpg)
 
-### Stehenní kost razítko:
+###  Razítko stehenní kosti:
 ![screenshot modelu stehenní kosti](https://github.com/pslib-cz/2022-p2a-mme-pppp-PeterHonzejk/blob/main/dokumentace/foto/kost_model.jpg)
 ![screenshot tisku stehenní kosti](https://github.com/pslib-cz/2022-p2a-mme-pppp-PeterHonzejk/blob/main/dokumentace/foto/kost_tisk.jpg)
 
