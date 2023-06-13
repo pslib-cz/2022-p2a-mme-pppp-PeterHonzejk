@@ -1,4 +1,4 @@
-# 2D/3D Stamps
+# A set of templates for 2D/3D cutting
 This project involves creating 2D and 3D stamps that are used for cutting and embossing motifs into various materials. Currently, two finished stamps are available: a trilobite and a femur bone.
 
 ## Photodocumentation
