@@ -55,11 +55,6 @@ Následuje přehled nákladů spojených s výrobou razítek:
 Zde je seznam součástek a materiálů potřebných pro výrobu razítek:
 
 - 3D tisknutý model
-- Filament pro 3D tisk
-- Špičatý nůž nebo řezací nástroj
-- Brusné papíry různých jemností
-
-Podrobnější informace o jednotlivých součástkách a materiálech jsou dostupné na následujících odkazech:
 - [Filament pro 3D tisk](url-to-filament)
 - [Špičaté nože a řezací nástroje](url-to-cutting-tools)
 - [Brusné papíry](url-to-sandpaper)
