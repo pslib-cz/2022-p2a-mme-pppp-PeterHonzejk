@@ -1,7 +1,7 @@
 # Sada šablon pro vykrajování 2D/3D
 Tento projekt se zabývá vytvářením 2D a 3D razítek, která slouží k vykrajování a vytlačování motivů do různých materiálů. V současné době jsou k dispozici dvě hotová razítka: trilobit a stehenní kost.
 
-## imgdokumentace
+## imgdocumentation
 Zde naleznete imggrafie výsledných fyzických výstupů:
 
 ### Razítko trilobita:
@@ -19,20 +19,20 @@ Zde naleznete imggrafie výsledných fyzických výstupů:
 Následující obrázky a diagramy poskytují podrobnou obrazovou dokumentaci pro replikaci razítek:
 
 ### Razítko trilobita:
-![screenshot modelu trilobita](https://github.com/pslib-cz/2022-p2a-mme-pppp-PeterHonzejk/blob/main/dokumentace/img/trilobit_model.jpg)
-![screenshot tisku trilobita](https://github.com/pslib-cz/2022-p2a-mme-pppp-PeterHonzejk/blob/main/dokumentace/img/trilobit_print.jpg)
+![screenshot modelu trilobita](https://github.com/pslib-cz/2022-p2a-mme-pppp-PeterHonzejk/blob/main/documentation/img/trilobit_model.jpg)
+![screenshot tisku trilobita](https://github.com/pslib-cz/2022-p2a-mme-pppp-PeterHonzejk/blob/main/documentation/img/trilobit_print.jpg)
 
 ###  Razítko stehenní kosti:
-![screenshot modelu stehenní kosti](https://github.com/pslib-cz/2022-p2a-mme-pppp-PeterHonzejk/blob/main/dokumentace/img/bone_model.jpg)
-![screenshot tisku stehenní kosti](https://github.com/pslib-cz/2022-p2a-mme-pppp-PeterHonzejk/blob/main/dokumentace/img/bone_print.jpg)
+![screenshot modelu stehenní kosti](https://github.com/pslib-cz/2022-p2a-mme-pppp-PeterHonzejk/blob/main/documentation/img/bone_model.jpg)
+![screenshot tisku stehenní kosti](https://github.com/pslib-cz/2022-p2a-mme-pppp-PeterHonzejk/blob/main/documentation/img/bone_print.jpg)
 
 ### Razítko zubu:
-![screenshot modelu zubu](https://github.com/pslib-cz/2022-p2a-mme-pppp-PeterHonzejk/blob/main/dokumentace/img/tooth_model.jpg)
-![screenshot tisku zubu](https://github.com/pslib-cz/2022-p2a-mme-pppp-PeterHonzejk/blob/main/dokumentace/img/tooth_print.jpg)
+![screenshot modelu zubu](https://github.com/pslib-cz/2022-p2a-mme-pppp-PeterHonzejk/blob/main/documentation/img/tooth_model.jpg)
+![screenshot tisku zubu](https://github.com/pslib-cz/2022-p2a-mme-pppp-PeterHonzejk/blob/main/documentation/img/tooth_print.jpg)
 
 ### Razítko DNA:
-![screenshot modelu DNA](https://github.com/pslib-cz/2022-p2a-mme-pppp-PeterHonzejk/blob/main/dokumentace/img/dna_model.jpg)
-![screenshot tisku DNA](https://github.com/pslib-cz/2022-p2a-mme-pppp-PeterHonzejk/blob/main/dokumentace/img/dna_print.jpg)
+![screenshot modelu DNA](https://github.com/pslib-cz/2022-p2a-mme-pppp-PeterHonzejk/blob/main/documentation/img/dna_model.jpg)
+![screenshot tisku DNA](https://github.com/pslib-cz/2022-p2a-mme-pppp-PeterHonzejk/blob/main/documentation/img/dna_print.jpg)
 
 ## Cenová kalkulace
 Následuje přehled nákladů spojených s výrobou razítek:
