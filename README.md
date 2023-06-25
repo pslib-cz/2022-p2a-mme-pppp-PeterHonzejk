@@ -2,8 +2,8 @@
 Tento projekt se zaměřuje na tvorbu 2D a 3D razítek, která jsou navržena tak, aby vykrajovala a vtiskávala specifické vzory nebo motivy do různých materiálů. Tyto razítka jsou s precizností navržena tak, aby přesně reprezentovala různé přírodní a vědecké prvky.
 Tato razítka otevírají širokou škálu možností, ať už pro vzdělávací účely, umělecké podnikání nebo pro vytváření zajímavých aktivit, které zahrnují vtiskávání těchto vzorů do různých materiálů.
 
-## V současné době jsou k dispozici čtyři vzory:
-
+## Vzory
+V současné době jsou k dispozici čtyři vzory
 ### Razítko trilobita:
 Toto razítko dokonale ztělesňuje formu trilobita, vymřelého mořského členovce, který existoval před miliony let. Ideální pro vzdělávací účely nebo pro každého, kdo má fascinaci pro prehistorický život.
 
@@ -28,30 +28,30 @@ Toto razítko reprodukuje tvar lidského zubu, užitečné při zubním vzdělá
 ![screenshot modelu DNA](https://github.com/pslib-cz/2022-p2a-mme-pppp-PeterHonzejk/blob/main/documentation/img/dna_model.png)
 ![screenshot tisku DNA](https://github.com/pslib-cz/2022-p2a-mme-pppp-PeterHonzejk/blob/main/documentation/img/dna_print.png)
 
-## Cenová kalkulace:
+## Cenová kalkulace
 Následuje přehled nákladů spojených s výrobou razítek:
 
-### Razítko trilobita
+### Razítko trilobita:
 - Cena filamentu: neznámo
 - Náklady na 3D tisk: neznámo
 - Celkové náklady: neznámo
 
-###  Razítko stehenní kosti
+###  Razítko stehenní kosti:
 - Cena filamentu: neznámo
 - Náklady na 3D tisk: neznámo
 - Celkové náklady: neznámo
 
-### Razítko zubu
+### Razítko zubu:
 - Cena filamentu: neznámo
 - Náklady na 3D tisk: neznámo
 - Celkové náklady: neznámo
 
-### Razítko DNA
+### Razítko DNA:
 - Cena filamentu: neznámo
 - Náklady na 3D tisk: neznámo
 - Celkové náklady: neznámo
 
-## Kompletní součástková a materiálová základna:
+## Kompletní součástková a materiálová základna
 Zde je seznam součástek a materiálů potřebných pro výrobu razítek:
 
 - 3D tisknutý model
@@ -64,7 +64,7 @@ Podrobnější informace o jednotlivých součástkách a materiálech jsou dost
 - [Špičaté nože a řezací nástroje](url-to-cutting-tools)
 - [Brusné papíry](url-to-sandpaper)
 
-## Pracovní postup:
+## Pracovní postup
 Následující postup popisuje výrobu razítek:
 
 1. **Příprava 3D modelu:** Stáhněte 3D model razítka ze složky [soubory na tisk](https://github.com/pslib-cz/2022-p2a-mme-pppp-PeterHonzejk/tree/main/print%20files) s koncovkou .stl. Prohlédněte si model v 3D tiskovém software, který jste si vybrali. Zkontrolujte, zda jsou všechny detaily modelu správně zobrazeny.
@@ -74,7 +74,7 @@ Následující postup popisuje výrobu razítek:
 5. **Spustit tisk:** Po ověření, že je vše připraveno, spusťte tisk. Během tisku sledujte proces, abyste byli schopni včas identifikovat a řešit případné problémy.
 6. **Dokončení tisku a úpravy:** Po dokončení tisku odeberte tisk z tiskové plochy. Vyčistěte případné podpůrné struktury a použijte špičatý nůž nebo řezací nástroj k jemnému doladění detailů razítka.
 
-## Návod k použití:
+## Návod k použití
 Následující postup popisuje využití razítek:
 
 1. Připravte materiál, do kterého chcete vykrajovat nebo vytlačovat motivy.
