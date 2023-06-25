@@ -20,19 +20,19 @@ Následující obrázky a diagramy poskytují podrobnou obrazovou dokumentaci pr
 
 ### Razítko trilobita:
 ![screenshot modelu trilobita](https://github.com/pslib-cz/2022-p2a-mme-pppp-PeterHonzejk/blob/main/documentation/img/trilobit_model.jpg)
-![screenshot tisku trilobita](https://github.com/pslib-cz/2022-p2a-mme-pppp-PeterHonzejk/blob/main/documentation/img/trilobit_print.jpg)
+![screenshot tisku trilobita](https://github.com/pslib-cz/2022-p2a-mme-pppp-PeterHonzejk/blob/main/documentation/img/trilobit_print.png)
 
 ###  Razítko stehenní kosti:
 ![screenshot modelu stehenní kosti](https://github.com/pslib-cz/2022-p2a-mme-pppp-PeterHonzejk/blob/main/documentation/img/bone_model.jpg)
 ![screenshot tisku stehenní kosti](https://github.com/pslib-cz/2022-p2a-mme-pppp-PeterHonzejk/blob/main/documentation/img/bone_print.jpg)
 
 ### Razítko zubu:
-![screenshot modelu zubu](https://github.com/pslib-cz/2022-p2a-mme-pppp-PeterHonzejk/blob/main/documentation/img/tooth_model.jpg)
-![screenshot tisku zubu](https://github.com/pslib-cz/2022-p2a-mme-pppp-PeterHonzejk/blob/main/documentation/img/tooth_print.jpg)
+![screenshot modelu zubu](https://github.com/pslib-cz/2022-p2a-mme-pppp-PeterHonzejk/blob/main/documentation/img/tooth_model.png)
+![screenshot tisku zubu](https://github.com/pslib-cz/2022-p2a-mme-pppp-PeterHonzejk/blob/main/documentation/img/tooth_print.png)
 
 ### Razítko DNA:
-![screenshot modelu DNA](https://github.com/pslib-cz/2022-p2a-mme-pppp-PeterHonzejk/blob/main/documentation/img/dna_model.jpg)
-![screenshot tisku DNA](https://github.com/pslib-cz/2022-p2a-mme-pppp-PeterHonzejk/blob/main/documentation/img/dna_print.jpg)
+![screenshot modelu DNA](https://github.com/pslib-cz/2022-p2a-mme-pppp-PeterHonzejk/blob/main/documentation/img/dna_model.png)
+![screenshot tisku DNA](https://github.com/pslib-cz/2022-p2a-mme-pppp-PeterHonzejk/blob/main/documentation/img/dna_print.png)
 
 ## Cenová kalkulace
 Následuje přehled nákladů spojených s výrobou razítek:
