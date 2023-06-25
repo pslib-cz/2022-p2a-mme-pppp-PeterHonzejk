@@ -1,6 +1,11 @@
 # Sada šablon pro vykrajování 2D/3D
-Tento projekt se zabývá vytvářením 2D a 3D razítek, která slouží k vykrajování a vytlačování motivů do různých materiálů. V současné době jsou k dispozici dvě hotová razítka: trilobit a stehenní kost.
-
+Tento projekt se zaměřuje na tvorbu 2D a 3D razítek, která jsou navržena tak, aby vykrajovala a vtiskávala specifické vzory nebo motivy do různých materiálů. Tyto razítka jsou s precizností navržena tak, aby přesně reprezentovala různé přírodní a vědecké prvky.
+V současné době jsou k dispozici čtyři vzory:
+Razítko Trilobita: Toto razítko dokonale ztělesňuje formu trilobita, vymřelého mořského členovce, který existoval před miliony let. Ideální pro vzdělávací účely nebo pro každého, kdo má fascinaci pro prehistorický život.
+Razítko Stehenní kost: Toto razítko, navržené s anatomickou přesností, zobrazuje lidskou stehenní kost. Mohlo by být použito v učebních souvislostech pro výuku o lidské anatomii nebo prostě pro umělecké účely.
+Razítko DNA: Toto razítko zobrazuje řetězec DNA, symbolizující stavební kameny života. Mohlo by být užitečné při výuce genetiky nebo pro projekty vyžadující vědeckou tématiku.
+Razítko Zubu: Toto razítko reprodukuje tvar lidského zubu, užitečné při zubním vzdělávání nebo pro vytvoření unikátního uměleckého díla.
+Tato razítka otevírají širokou škálu možností, ať už pro vzdělávací účely, umělecké podnikání nebo pro vytváření zajímavých aktivit, které zahrnují vtiskávání těchto vzorů do různých materiálů.
 ## imgdocumentation
 Zde naleznete imggrafie výsledných fyzických výstupů:
 
