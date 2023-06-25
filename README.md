@@ -73,7 +73,7 @@ Podrobnější informace o jednotlivých součástkách a materiálech jsou dost
 ## Pracovní postup
 Následující postup popisuje výrobu razítek:
 
-1. **Příprava 3D modelu:** Stáhněte 3D model razítka ze složky [soubory na tisk](https://github.com/pslib-cz/2022-p2a-mme-pppp-PeterHonzejk/tree/main/sobory%20na%20tisk) s koncovkou .stl. Prohlédněte si model v 3D tiskovém software, který jste si vybrali. Zkontrolujte, zda jsou všechny detaily modelu správně zobrazeny.
+1. **Příprava 3D modelu:** Stáhněte 3D model razítka ze složky [soubory na tisk](https://github.com/pslib-cz/2022-p2a-mme-pppp-PeterHonzejk/tree/main/print%20files) s koncovkou .stl. Prohlédněte si model v 3D tiskovém software, který jste si vybrali. Zkontrolujte, zda jsou všechny detaily modelu správně zobrazeny.
 2. **Nastavení 3D tiskárny:** Zapněte 3D tiskárnu a zkontrolujte, zda je správně nastavena. Ujistěte se, že je tisková plocha čistá a rovná, a že je tisková hlava správně zarovnána.
 3. **Výběr a příprava filamentu:** Vyberte filament ve vhodné barvě. Filament vložte do tiskárny podle pokynů výrobce. Ujistěte se, že filament správně prochází extruderem.
 4. **Nastavení parametrů tisku:** V tiskovém software nastavte parametry tisku. To může zahrnovat rychlost tisku, teplotu tiskárny, výšku vrstvy, použití podpůrných struktur a další. Tyto parametry mohou ovlivnit kvalitu a detail tisku, takže je důležité je pečlivě nastavit.
