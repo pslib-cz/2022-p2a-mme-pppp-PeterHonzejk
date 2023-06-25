@@ -1,4 +1,4 @@
-# Sada šablon pro vykrajování 2D/3D
+# Sada pro 2D/3D vykrajování
 Tento projekt se zaměřuje na tvorbu 2D a 3D razítek, která jsou navržena tak, aby vykrajovala a vtiskávala specifické vzory nebo motivy do různých materiálů. Tyto razítka jsou s precizností navržena tak, aby přesně reprezentovala různé přírodní a vědecké prvky.
 Tato razítka otevírají širokou škálu možností, ať už pro vzdělávací účely, umělecké podnikání nebo pro vytváření zajímavých aktivit, které zahrnují vtiskávání těchto vzorů do různých materiálů.
 
