@@ -4,31 +4,55 @@ Tento projekt se zabývá vytvářením 2D a 3D razítek, která slouží k vykr
 ## Fotodokumentace
 Zde naleznete fotografie výsledných fyzických výstupů:
 
-### Trilobit razítko:
-![fotka trilobita](URL)
+### Razítko trilobita:
+![fotka razítka trilobita](URL)
 
 ### Razítko stehenní kosti:
 ![fotka razítka stehenní kosti](URL)
 
+### Razítko zubu:
+![fotka razítka zubu](URL)
+
+### Razítko DNA:
+![fotka razítka DNA](URL)
+
 Následující obrázky a diagramy poskytují podrobnou obrazovou dokumentaci pro replikaci razítek:
 
-### Trilobit razítko:
+### Razítko trilobita:
 ![screenshot modelu trilobita](https://github.com/pslib-cz/2022-p2a-mme-pppp-PeterHonzejk/blob/main/dokumentace/foto/trilobit_model.jpg)
-![screenshot tisku trilobita](https://github.com/pslib-cz/2022-p2a-mme-pppp-PeterHonzejk/blob/main/dokumentace/foto/trilobit_tisk.jpg)
+![screenshot tisku trilobita](https://github.com/pslib-cz/2022-p2a-mme-pppp-PeterHonzejk/blob/main/dokumentace/foto/trilobit_print.jpg)
 
 ###  Razítko stehenní kosti:
-![screenshot modelu stehenní kosti](https://github.com/pslib-cz/2022-p2a-mme-pppp-PeterHonzejk/blob/main/dokumentace/foto/kost_model.jpg)
-![screenshot tisku stehenní kosti](https://github.com/pslib-cz/2022-p2a-mme-pppp-PeterHonzejk/blob/main/dokumentace/foto/kost_tisk.jpg)
+![screenshot modelu stehenní kosti](https://github.com/pslib-cz/2022-p2a-mme-pppp-PeterHonzejk/blob/main/dokumentace/foto/bone_model.jpg)
+![screenshot tisku stehenní kosti](https://github.com/pslib-cz/2022-p2a-mme-pppp-PeterHonzejk/blob/main/dokumentace/foto/bone_print.jpg)
+
+### Razítko zubu:
+![screenshot modelu zubu](https://github.com/pslib-cz/2022-p2a-mme-pppp-PeterHonzejk/blob/main/dokumentace/foto/tooth_model.jpg)
+![screenshot tisku zubu](https://github.com/pslib-cz/2022-p2a-mme-pppp-PeterHonzejk/blob/main/dokumentace/foto/tooth_print.jpg)
+
+### Razítko DNA:
+![screenshot modelu DNA](https://github.com/pslib-cz/2022-p2a-mme-pppp-PeterHonzejk/blob/main/dokumentace/foto/dna_model.jpg)
+![screenshot tisku DNA](https://github.com/pslib-cz/2022-p2a-mme-pppp-PeterHonzejk/blob/main/dokumentace/foto/dna_print.jpg)
 
 ## Cenová kalkulace
 Následuje přehled nákladů spojených s výrobou razítek:
 
-### Trilobit razítko:
+### Razítko trilobita:
 - Cena filamentu: neznámo
 - Náklady na 3D tisk: neznámo
 - Celkové náklady: neznámo
 
-### Stehenní kost razítko:
+###  Razítko stehenní kosti:
+- Cena filamentu: neznámo
+- Náklady na 3D tisk: neznámo
+- Celkové náklady: neznámo
+
+### Razítko zubu:
+- Cena filamentu: neznámo
+- Náklady na 3D tisk: neznámo
+- Celkové náklady: neznámo
+
+### Razítko DNA:
 - Cena filamentu: neznámo
 - Náklady na 3D tisk: neznámo
 - Celkové náklady: neznámo
