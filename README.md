@@ -81,3 +81,6 @@ Následující postup popisuje využití razítek:
 2. Vyberte vhodné razítko podle vašich potřeb.
 3. Pečlivě přiložte razítko na povrch materiálu.
 4. Pro 2D razítka použijte vhodnou sílu a techniku, abyste vytvořili jasný obrazec. / Pro 3D razítka pečlivě vytlačujte razítko na materiál a ujistěte se, že se vytvořil požadovaný motiv
+
+## Odkazy
+- [Printables](https://www.printables.com/model/509310-a-set-of-2d3d-stamps)
