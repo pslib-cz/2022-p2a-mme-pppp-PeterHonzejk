@@ -17,13 +17,13 @@ Toto razítko, navržené s anatomickou přesností, zobrazuje lidskou stehenní
 ![screenshot tisku stehenní kosti](https://github.com/pslib-cz/2022-p2a-mme-pppp-PeterHonzejk/blob/main/documentation/img/bone_print.jpg)
 
 ### Razítko zubu:
-Toto razítko zobrazuje řetězec DNA, symbolizující stavební kameny života. Mohlo by být užitečné při výuce genetiky nebo pro projekty vyžadující vědeckou tématiku.
+Toto razítko reprodukuje tvar lidského zubu, užitečné při zubním vzdělávání nebo pro vytvoření unikátního uměleckého díla.
 
 ![screenshot modelu zubu](https://github.com/pslib-cz/2022-p2a-mme-pppp-PeterHonzejk/blob/main/documentation/img/tooth_model.png)
 ![screenshot tisku zubu](https://github.com/pslib-cz/2022-p2a-mme-pppp-PeterHonzejk/blob/main/documentation/img/tooth_print.png)
 
 ### Razítko DNA:
-Toto razítko reprodukuje tvar lidského zubu, užitečné při zubním vzdělávání nebo pro vytvoření unikátního uměleckého díla.
+Toto razítko zobrazuje řetězec DNA, symbolizující stavební kameny života. Mohlo by být užitečné při výuce genetiky nebo pro projekty vyžadující vědeckou tématiku.
 
 ![screenshot modelu DNA](https://github.com/pslib-cz/2022-p2a-mme-pppp-PeterHonzejk/blob/main/documentation/img/dna_model.png)
 ![screenshot tisku DNA](https://github.com/pslib-cz/2022-p2a-mme-pppp-PeterHonzejk/blob/main/documentation/img/dna_print.png)
