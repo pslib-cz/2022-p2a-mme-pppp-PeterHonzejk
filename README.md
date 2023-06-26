@@ -28,36 +28,13 @@ Toto razítko zobrazuje řetězec DNA, symbolizující stavební kameny života.
 ![screenshot modelu DNA](https://github.com/pslib-cz/2022-p2a-mme-pppp-PeterHonzejk/blob/main/documentation/img/dna_model.png)
 ![screenshot tisku DNA](https://github.com/pslib-cz/2022-p2a-mme-pppp-PeterHonzejk/blob/main/documentation/img/dna_print.png)
 
-## Cenová kalkulace
-Následuje přehled nákladů spojených s výrobou razítek:
-
-### Razítko trilobita:
-- Cena filamentu: neznámo
-- Náklady na 3D tisk: neznámo
-- Celkové náklady: neznámo
-
-###  Razítko stehenní kosti:
-- Cena filamentu: neznámo
-- Náklady na 3D tisk: neznámo
-- Celkové náklady: neznámo
-
-### Razítko zubu:
-- Cena filamentu: neznámo
-- Náklady na 3D tisk: neznámo
-- Celkové náklady: neznámo
-
-### Razítko DNA:
-- Cena filamentu: neznámo
-- Náklady na 3D tisk: neznámo
-- Celkové náklady: neznámo
-
 ## Kompletní součástková a materiálová základna
 Zde je seznam součástek a materiálů potřebných pro výrobu razítek:
 
 - 3D tisknutý model
-- [Filament pro 3D tisk](url-to-filament)
-- [Špičaté nože a řezací nástroje](url-to-cutting-tools)
-- [Brusné papíry](url-to-sandpaper)
+- Filament pro 3D tisk
+- Špičaté nože a řezací nástroje
+- Brusné papíry
 
 ## Pracovní postup
 Následující postup popisuje výrobu razítek:
