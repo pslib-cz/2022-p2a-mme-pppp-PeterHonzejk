@@ -56,3 +56,4 @@ Následující postup popisuje využití razítek:
 
 ## Odkazy
 - [Printables](https://www.printables.com/model/509310-a-set-of-2d3d-stamps)
+- [Thingiverse](https://www.thingiverse.com/thing:6087272)
